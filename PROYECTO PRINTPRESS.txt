@@ -1,0 +1,11 @@
+El proyecto denominado “PrintPress” tiene como objetivo instituir una plataforma virtual que permita acercar al diseñador gráfico profesional y en formación con  los procesos básicos de preprensa y ajustes de archivos para impresión, permitiendo difundir esta informacion tan necesaria y fundamental en los procesos creativos y de toma de decisiones a la hora de diseñar piezas para reproducción y divulgación impresa.
+
+Después de una recopilación de información donde se evidenciaron las falencias de los diseñadores en el tema de preparación y la adecuada manipulación de sus proyectos de diseño para impresión se evidenció la falta de bases sólidas para poder construir y llevar un proceso adecuado de sus productos finales. Esta investigación arrojó varios resultados de los cuales el más importante es que la información que se encuentra en la red online y offline es bastante compleja y densa, lo que lleva a que no sea de fácil comprensión y no llama la atención para su consumo como conocimiento de formación, lo que permite determinar que los estudiantes y profesionales del área tienen un desconocimiento de las normas y procesos de preprensa que les permite crear un archivo óptimo para impresión  y a su vez reducir tiempos, lo que conlleva a una mala producción o resultado no esperado de su archivo impreso. 
+
+El deber de este proyecto es constituir  un medio virtual complementado con una app, facilitando así que el usuario interesado pueda interactuar y buscar la información necesaria, como ejercicio de desarrollo se debe recabar y sintetizar la información para que su interpretación sea clara y concisa. 
+
+Dado que el presente proyecto analiza la construcción de un portal virtual y app que permita acercar al diseñador gráfico tanto profesional como en formación de los procesos básicos de preprensa y ajustes de archivos para impresión, es preciso aclarar algunos conceptos. En primer lugar, el abordaje de los términos preprensa y lo que lo compone. Como segundo punto dar un acercamiento a la evidencia de las teorías que relacionan la investigación y la conceptualización de los hallazgos para que sean valederas y sustentables en todo el proceso.
+
+
+NOMBRE DEL PROYECTO: PRINTPRESS
+NOMBRE DE LOS INTEGRANTES: MELYSSA CASTAÑEDA - SEBASTIAN GALINDO - LUIS ALFREDO G.
